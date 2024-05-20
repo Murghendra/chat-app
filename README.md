@@ -1,6 +1,6 @@
 # Deployed in netlify
 
-[netlify deployment](https://murghendra-chat-application.netlify.app/).
+(https://murghendra-chat-application.netlify.app/).
 
 # Getting Started with Create React App
 
